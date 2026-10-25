@@ -9,7 +9,7 @@ Qo‘shish, ayirish, ko‘paytirish va bo‘lish — sehrli baraban va dono Doni
 [![APK yuklab olish](https://img.shields.io/badge/⬇_APK_yuklab_olish-v1.0.2-f59e0b?style=for-the-badge&logo=android&logoColor=white)](https://github.com/MSoqiy/donish-bobo/raw/main/apk/donish-bobo.apk)
 [![Sayt](https://img.shields.io/badge/Batafsil-sayt-0f766e?style=for-the-badge)](https://msoqiy.github.io/donish-bobo/)
 
-<img src="screenshots/donish-bobo-1.jpg" alt="Donish bobo ilovasi ekranlari" width="100%">
+<img src="screenshots/donish-bobo-1.jpg" alt="Donish bobo ilovasi ekranlari" width="32%">
 
 </div>
 
@@ -40,24 +40,26 @@ Prodigy Math, SplashLearn, DragonBox Numbers, Khan Academy Kids va Todo Math bil
 
 1. **[donish-bobo.apk](https://github.com/MSoqiy/donish-bobo/raw/main/apk/donish-bobo.apk)** faylini yuklab oling (APK papkasi — [apk/](https://github.com/MSoqiy/donish-bobo/tree/main/apk)).
 2. Faylni oching; telefon so‘rasa, «Noma'lum manbalardan o‘rnatish»ga ruxsat bering.
-3. «O‘rnatish»ni bosing. Birinchi ishga tushirishda ovoz modellari yuklanadi, keyin ilova internetsiz ishlaydi.
+3. «O‘rnatish»ni bosing.
 
 ## Ekranlar
 
-<img src="screenshots/donish-bobo-2.jpg" alt="Donish bobo — Arifmetika · Matematika" width="100%">
+<div align="center">
 
-<img src="screenshots/donish-bobo-3.jpg" alt="Donish bobo — Arifmetika · Matematika" width="100%">
+<img src="screenshots/donish-bobo-2.jpg" alt="Donish bobo — Arifmetika · Matematika" width="32%">
+<img src="screenshots/donish-bobo-3.jpg" alt="Donish bobo — Arifmetika · Matematika" width="32%">
+<img src="screenshots/donish-bobo-4.jpg" alt="Donish bobo — Arifmetika · Matematika" width="32%">
 
-<img src="screenshots/donish-bobo-4.jpg" alt="Donish bobo — Arifmetika · Matematika" width="100%">
+</div>
 
 ## English
 
-**Donish bobo** — Arithmetic learning game for primary school pupils in Uzbek. Free, ad-free, works offline. Part of the *Aqlli o‘yin — bilimli avlod* (Smart games — knowledgeable generation) collection of Uzbek educational apps.
+**Donish bobo** — Arithmetic learning game for primary school pupils in Uzbek. Free, ad-free. Part of the «Ta'limiy o‘yinlar» collection by Mamasaidov M.A..
 
 ---
 
-**Muallif:** Mamasaidov M.A. — Toshkent shahar Mirzo Ulug‘bek markazi o‘qituvchisi · Tetrasoft · ✉ soqiy65@gmail.com · 🌐 https://msoqiy.github.io
+**Muallif:** Mamasaidov M.A. — Toshkent shahar Mirzo Ulug‘bek markazi o‘qituvchisi · Tetrasoft · ✉ soqiy65@gmail.com · 🌐 https://msoqiy.github.io · «[Ta'limiy o‘yinlar](https://msoqiy.github.io/oyinlar/)»
 
-**Boshqa ilovalar:** [Otin buvi](https://github.com/MSoqiy/otin-buvi) · [Bayon AI](https://github.com/MSoqiy/bayon-ai) · [Tilbilgich En AI](https://github.com/MSoqiy/tilbilgich-en) · [Tilbilgich Fr AI](https://github.com/MSoqiy/tilbilgich-fr) · [Tilbilgich De AI](https://github.com/MSoqiy/tilbilgich-de) · [Tilbilgich Ar AI](https://github.com/MSoqiy/tilbilgich-ar) · [Aljabr](https://github.com/MSoqiy/aljabr) · [GeoSayyoh](https://github.com/MSoqiy/geosayyoh)
+**Boshqa ilovalar:** [Otin buvi](https://github.com/MSoqiy/otin-buvi) · [Bayon AI](https://github.com/MSoqiy/bayon-ai) · [Tilbilgich En AI](https://github.com/MSoqiy/tilbilgich-en) · [Tilbilgich Fr AI](https://github.com/MSoqiy/tilbilgich-fr) · [Tilbilgich De AI](https://github.com/MSoqiy/tilbilgich-de) · [Tilbilgich Ar AI](https://github.com/MSoqiy/tilbilgich-ar) · [Aljabr](https://github.com/MSoqiy/aljabr) · [GeoSayyoh](https://github.com/MSoqiy/geosayyoh) · [So‘zla](https://github.com/MSoqiy/sozla)
 
-<sub>Kalit so‘zlar: matematika o‘yini, arifmetika bolalar uchun, karra jadvali, qo‘shish va ayirish, boshlang‘ich sinf matematika, mental arifmetika, hisoblashni o‘rganish, математика для детей на узбекском, арифметика начальная школа, o‘zbekcha ta'limiy o‘yin, bolalar uchun ilova, android apk</sub>
+<sub>Kalit so‘zlar: matematika o‘yini, arifmetika bolalar uchun, karra jadvali, qo‘shish va ayirish, boshlang‘ich sinf matematika, mental arifmetika, hisoblashni o‘rganish, математика для детей на узбекском, арифметика начальная школа, o‘zbekcha ta'limiy o‘yin, android apk</sub>
